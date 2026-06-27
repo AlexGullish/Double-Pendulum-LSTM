@@ -18,7 +18,7 @@ The double pendulum is a canonical chaotic system: small differences in initial 
 ## Installation
 
 ```bash
-git clone https://github.com/<username>/double-pendulum-lstm.git
+git clone https://github.com/AlexGullish/Double-Pendulum-LSTM.git
 cd double-pendulum-lstm
 python -m venv venv
 source venv/bin/activate   # Windows: venv\Scripts\activate
