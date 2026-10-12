@@ -1,6 +1,6 @@
 # Double-Pendulum LSTM
 
-An LSTM deep learning application for modelling chaotic double-pendulum motion from experimental sensor data. Built as the analysis engine for an International Baccalaureate (IB) Extended Essay in Mathematics / Physics.
+An LSTM deep learning application for modelling chaotic double-pendulum motion from experimental sensor data. Built as the analysis engine for an International Baccalaureate (IB) Extended Essay in Computer Science / Physics.
 
 ## Background
 
